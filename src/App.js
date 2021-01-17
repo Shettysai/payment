@@ -5,17 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <a  class="button" type="button" href="upi://pay?pa=9663016169@ybl&pn= Shetty Sai&cu=INR&tn=Shetty sai&tr=APP">Click Here!!</a>
       </header>
     </div>
   );
